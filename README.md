@@ -1,40 +1,24 @@
-# Your Project's Name
+# My Portfolio 
 
-One or two paragraphs providing an overview of your project. Tell us about your project.
-
-Essentially, this part is your sales pitch.
+I have created a basic, static website showcasing my portfolio and my work. I have also included my education history inside the website, as well as my job experience and some other fun stuff.
  
 ## Design Process
  
-Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+My design process is to create a simplistic website showcasing my portfolio, and is focused for people that might want to hire/scout for employees .
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+In particular, as a student, I would like to learn more about the depths of IT and hopefully pursue a career in the same field in the future.
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 
-These files should themselves either be included as a pdf file in the project itself (in an separate directory)
-Include the Adobe XD wireframe as a folder. You can include the XD share url. 
+
 
 ## Features
+functional navigation bar, contact form (for submitting feedback)
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
-- Another feature idea
+photo album, dropdown menu, more aesthetically appealing shapes and designs
 
 ## Technologies Used
-
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-
+HTML and CSS with personal laptop 
 
 ## Testing
 
@@ -46,20 +30,20 @@ For any scenarios that have not been automated, test the user stories manually a
     3. Try to submit the form with an invalid email address and verify that a relevant error message appears
     4. Try to submit the form with all inputs valid and verify that a success message appears.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+The background of the website resizes automatically based on the deviced used.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+Adobe xD wireframe test links 
+https://xd.adobe.com/view/14d11390-b724-438d-9013-a91f20e01680-4182/
+https://xd.adobe.com/view/99339d36-f2ed-4a29-9aa6-f0da31fb2ef7-cc60/
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ## Credits
 
-### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+
 
 ### Media
-- The photos used in this site were obtained from ...
+- The photos used in this site were obtained from Pexels taken by eberhard grossgasteiger and some photos  that i have included are of my own. 
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from my past portfolio website created in Sem 1 
